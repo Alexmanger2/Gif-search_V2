@@ -1,12 +1,12 @@
-import React,{useState,Fragment} from 'react';
+import React,{Fragment} from 'react';
 import './App.css';
-import Trending from './components/Trending';
+import GifSearch from './components/GifSearch';
 
 function App() {
   return (
     <Fragment>
-    
-        <Trending/>
+
+          <GifSearch/>
 
 
     </Fragment>

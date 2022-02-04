@@ -36,3 +36,82 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+/* .comps{
+  display: flex;
+  padding-left: 650px;
+  padding-top: 3%;
+} */
+
+body{
+  background-color: #282c34;
+}
+
+
+ .card{
+    /* width:250px;
+    height:250px; */
+    display: inline-flex;
+    position: relative;
+   
+}  
+  
+
+.mainButtons{
+  padding-left: 650px;
+  padding-top: 3%;
+}
+
+img {
+ 
+  width:  140px;
+  height: 140px;
+  background-size: cover;
+ 
+}
+
+
+/* img {
+ 
+  float: left;
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+ 
+} */
+
+
+#randomId{
+
+  background-color: #282c34;
+  display: block;
+  margin-left: 750px;
+  width: 0%;
+}
+
+
+
+.trendButton{
+  color: white;
+  background-color: purple;
+}
+
+.randomButton{
+  color:white;
+  background-color: aqua;
+}
+
+
+.searchButton{
+  color:white;
+  background-color: limegreen;
+}
+
+
+.inputSearch{
+  background-color: gainsboro;
+  border: 2px solid black;
+}
+
